@@ -11,7 +11,7 @@
 
 <body>
     <h1>Formulaire de contact</h1>
-    <form action="form.php" method="post">
+    <form action="thanks.php" method="post">
     <div>
         <label for="name">Nom :</label>
         <input type="text"  id="name"  name="user_name">
